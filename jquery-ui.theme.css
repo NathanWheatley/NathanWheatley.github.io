@@ -10,34 +10,6 @@
  *
  * To view and modify this theme, visit http://jqueryui.com/themeroller/?ffDefault=Arial%2CHelvetica%2Csans-serif&fsDefault=1em&fwDefault=normal&cornerRadius=3px&bgColorHeader=%23050505&bgTextureHeader=flat&borderColorHeader=%23000000&fcHeader=%23333333&iconColorHeader=%23444444&bgColorContent=%23ffffff&bgTextureContent=flat&borderColorContent=%23dddddd&fcContent=%23333333&iconColorContent=%23444444&bgColorDefault=%231708b0&bgTextureDefault=flat&borderColorDefault=%23000000&fcDefault=%23fafafa&iconColorDefault=%23777777&bgColorHover=%23ffffff&bgTextureHover=flat&borderColorHover=%231708b0&fcHover=%23000000&iconColorHover=%23555555&bgColorActive=%231708b0&bgTextureActive=flat&borderColorActive=%23ffffff&fcActive=%23ffffff&iconColorActive=%23ffffff&bgColorHighlight=%23ffffff&bgTextureHighlight=flat&borderColorHighlight=%23dad55e&fcHighlight=%23000000&iconColorHighlight=%23777620&bgColorError=%23fddfdf&bgTextureError=flat&borderColorError=%23f1a899&fcError=%235f3f3f&iconColorError=%23cc0000&bgColorOverlay=%23aaaaaa&bgTextureOverlay=flat&bgImgOpacityOverlay=0&opacityOverlay=30&bgColorShadow=%23666666&bgTextureShadow=flat&bgImgOpacityShadow=0&opacityShadow=30&thicknessShadow=5px&offsetTopShadow=0px&offsetLeftShadow=0px&cornerRadiusShadow=8px&bgImgOpacityHeader=&bgImgOpacityContent=&bgImgOpacityDefault=&bgImgOpacityHover=&bgImgOpacityActive=&bgImgOpacityHighlight=&bgImgOpacityError=
  */
-<head>
-<style>
-a:link {
-    color: #000000;
-    background-color: #ffffff;
-    text-decoration: none;
-    font-size: 50px;
-}
-a:visited {
-    color: #ffffff;
-    background-color: #808080;
-    text-decoration: none;
-    font-size: 50px;
-}
-a:hover {
-    color: #ffffff;
-    background-color: #808080;
-    text-decoration: underline;
-    font-size: 50px;
-}
-a:active {
-    color: yellow;
-    background-color: transparent;
-    text-decoration: underline;
-    font-size: 50px;
-}
-</style>
-</head>
 /* Component containers
 ----------------------------------*/
 .ui-widget {
