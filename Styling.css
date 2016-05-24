@@ -6,6 +6,21 @@ body{
     margin:0;
     padding:0;
 }
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
 p.one {
     border-top-style: dashed;
     border-bottom-style: dashed;
