@@ -23,7 +23,9 @@ a:active {
 ol {
 text-align: center;
 }
-
+li {
+display: inline-block;
+}
 
 .one {
     border-top-style: dashed;
