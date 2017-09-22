@@ -20,6 +20,13 @@ a:hover {
 a:active {
     color: blue;
 }
+ol {
+text-align: center;
+}
+
+li {
+display: inline-block;
+}
 .one {
     border-top-style: dashed;
     border-bottom-style: dashed;
