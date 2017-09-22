@@ -20,7 +20,7 @@ a:hover {
 a:active {
     color: blue;
 }
-p.one {
+.one {
     border-top-style: dashed;
     border-bottom-style: dashed;
     border-width: 5px;
